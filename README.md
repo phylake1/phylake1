@@ -1,70 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:00FF41&height=180&section=header&text=phylake1&fontSize=60&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Semih%20Bali%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=00FF41" width="100%"/>
+<img src="https://raw.githubusercontent.com/phylake1/phylake1/main/assets/terminal-header.svg" width="720" alt=""/>
 
-<a href="https://github.com/phylake1">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&height=60&background=00000000&lines=%3E+whoami;Semih+Bali+aka+phylake1;Full-Stack+Developer;TypeScript+%7C+JavaScript+%7C+Node.js;Shipping+products%2C+not+excuses;sudo+make+me+a+sandwich" alt="Typing SVG" />
-</a>
+```
+
+██████╗ ██╗  ██╗██╗   ██╗██╗      █████╗ ██╗  ██╗███████╗ ██╗
+██╔══██╗██║  ██║╚██╗ ██╔╝██║     ██╔══██╗██║ ██╔╝██╔════╝███║
+██████╔╝███████║ ╚████╔╝ ██║     ███████║█████╔╝ █████╗  ╚██║
+██╔═══╝ ██╔══██║  ╚██╔╝  ██║     ██╔══██║██╔═██╗ ██╔══╝   ██║
+██║     ██║  ██║   ██║   ███████╗██║  ██║██║  ██╗███████╗ ██║
+╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═╝
+
+```
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&height=40&background=00000000&lines=Semih+Bali+%E2%80%94+aka+phylake1;Full-Stack+Developer+%C3%97+Product+Designer;code+meets+design;TypeScript+%7C+Python+%7C+React+%7C+Figma;sudo+make+it+beautiful" alt="typing" />
 
 </div>
 
+<img src="https://raw.githubusercontent.com/phylake1/phylake1/main/assets/divider.svg" width="100%" height="4" alt=""/>
+
+### `$ whoami`
+
+```
+
+      ╭──────────────╮     semih@phylake1
+      │  >_           │    ─────────────────────────────────────
+      │               │    Role        Full-Stack Dev × Product Designer
+      │  01001000 01  │    Languages   TypeScript · JavaScript · Python
+      │  01001001 01  │    Frameworks  React · Node.js
+      ╰──────┬─┬──────╯    Databases   PostgreSQL · MongoDB · Redis
+        ─────┴─┴─────      Design      Figma · Photoshop · Illustrator
+                            Building    mesby_web · mesby_backend · mesby_admin
+                            Status      shipping code & pixels
+
+```
+
+<img src="https://raw.githubusercontent.com/phylake1/phylake1/main/assets/divider.svg" width="100%" height="4" alt=""/>
+
+### `$ cat tech_stack.yaml`
+
+<sub><b># languages & runtime</b></sub>
 <br/>
-
-<div align="center">
-
-```bash
-semih@phylake1:~$ cat profile.json
-```
-
-```json
-{
-  "name": "Semih Bali",
-  "username": "phylake1",
-  "role": "Full-Stack Developer",
-  "stack": ["TypeScript", "JavaScript", "Node.js", "HTML/CSS"],
-  "currently_building": ["mesby_web", "mesby_backend", "mesby_admin"],
-  "focus": "shipping end-to-end web products",
-  "status": "compiling dreams into code..."
-}
-```
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-</div>
-
-## <img src="https://media.giphy.com/media/iY9AlBHmVzTQ4/giphy.gif" width="35"> Tech Stack
-
-<div align="center">
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=39FF14)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF14)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=39FF14)
+
+<sub><b># frontend</b></sub>
+<br/>
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=39FF14)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=39FF14)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=39FF14)
+
+<sub><b># backend & data</b></sub>
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=39FF14)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=39FF14)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=39FF14)
+
+<sub><b># tools & infra</b></sub>
+<br/>
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=39FF14)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=39FF14)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=39FF14)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14)
 
-</div>
+<sub><b># design</b></sub>
+<br/>
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=39FF14)
+![Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=39FF14)
+![Illustrator](https://img.shields.io/badge/Illustrator-0D1117?style=for-the-badge&logo=adobeillustrator&logoColor=39FF14)
+![XD](https://img.shields.io/badge/Adobe%20XD-0D1117?style=for-the-badge&logo=adobexd&logoColor=39FF14)
 
 <!--
-  Bu satır teknoloji listesini yansıtır. Kullanmadığın bir badge'i silmek için
-  o satırı kaldır, eklemek için aynı formatta yeni satır ekle:
+  Yeni bir teknoloji eklemek için aynı formatta satır ekle:
   ![Ad](https://img.shields.io/badge/Ad-0D1117?style=for-the-badge&logo=LOGO_ADI&logoColor=39FF14)
-  Logo adları için: https://simpleicons.org
+  Logo adları: https://simpleicons.org
 -->
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/phylake1/phylake1/main/assets/divider.svg" width="100%" height="4" alt=""/>
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> GitHub Stats
+### `$ curl stats.github/phylake1`
 
 <div align="center">
 
@@ -75,11 +91,9 @@ semih@phylake1:~$ cat profile.json
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/phylake1/phylake1/main/assets/divider.svg" width="100%" height="4" alt=""/>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Trophies
+### `$ ls trophies/`
 
 <div align="center">
 
@@ -87,49 +101,36 @@ semih@phylake1:~$ cat profile.json
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/phylake1/phylake1/main/assets/divider.svg" width="100%" height="4" alt=""/>
 
-## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35"> Contribution Snake
-
-Terminaldeki commit geçmişini yılan haline getiren animasyon. Aşağıdaki repoya
-[`snake.yml`](#-snake-animasyonu-nasıl-kurulur) workflow'unu eklediğinde,
-GitHub Actions her gün otomatik üretip bu görseli güncelleyecek:
+### `$ ./snake.sh --animate`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/phylake1/phylake1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake animation - workflow kurulduktan sonra görünür" />
+<img src="https://raw.githubusercontent.com/phylake1/phylake1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 
 </div>
 
-> Görsel ilk workflow çalışana kadar görünmez — kurulum adımları en altta.
+<img src="https://raw.githubusercontent.com/phylake1/phylake1/main/assets/divider.svg" width="100%" height="4" alt=""/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Connect
+### `$ cat contact.json`
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:isemihbl@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://instagram.com/semihbali)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/phylake1)
 
 <!--
-  Ekstra linklerin varsa (LinkedIn, X/Twitter, kişisel site) aynı formatta
-  ekle, örnek:
+  LinkedIn / X / kişisel siten varsa aynı formatta ekle:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/KULLANICI_ADIN)
   [![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/KULLANICI_ADIN)
-  [![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=todoist&logoColor=39FF14)](https://SITEN.com)
 -->
 
 </div>
 
+<img src="https://raw.githubusercontent.com/phylake1/phylake1/main/assets/divider.svg" width="100%" height="4" alt=""/>
+
 <div align="center">
-
-<img src="https://profile-counter.glitch.me/phylake1/count.svg" alt="visitor count" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
-
+<sub>~/phylake1 $ <i>_</i></sub>
 </div>
