@@ -17,17 +17,14 @@
 
 </div>
 
-### `$ whoami`
+<div align="center">
+<img src="https://raw.githubusercontent.com/phylake1/phylake1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/phylake1/phylake1/main/assets/whoami-card.svg" width="700" alt="whoami"/>
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/phylake1/phylake1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
-</div>
-
-### `$ cat contact.json`
 
 <div align="center">
 
