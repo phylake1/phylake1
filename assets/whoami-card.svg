@@ -1,39 +1,99 @@
-<svg width="820" height="266" viewBox="0 0 820 266" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(20,20)">
-    <text font-family="'Fira Code','Courier New',monospace" font-size="12" fill="#39FF14" opacity="0.9">
-    <tspan x="0" dy="0">       _,met$$$$$gg.</tspan>
-    <tspan x="0" dy="14">    ,g$$$$$$$$$$$$$$$P.</tspan>
-    <tspan x="0" dy="14">  ,g$$P&quot;&quot;        &quot;&quot;&quot;Y$$.&quot;.</tspan>
-    <tspan x="0" dy="14"> ,$$P'              `$$$.</tspan>
-    <tspan x="0" dy="14">',$$P       ,ggs.     `$$b:</tspan>
-    <tspan x="0" dy="14">`d$$'     ,$P&quot;'   .    $$$</tspan>
-    <tspan x="0" dy="14"> $$P      d$'     ,    $$P</tspan>
-    <tspan x="0" dy="14"> $$:      $$.   -    ,d$$'</tspan>
-    <tspan x="0" dy="14"> $$;      Y$b._   _,d$P'</tspan>
-    <tspan x="0" dy="14"> Y$$.    `.`&quot;Y$$$$P&quot;'</tspan>
-    <tspan x="0" dy="14"> `$$b      &quot;-.__</tspan>
-    <tspan x="0" dy="14">  `Y$$</tspan>
-    <tspan x="0" dy="14">   `Y$$.</tspan>
-    <tspan x="0" dy="14">     `$$b.</tspan>
-    <tspan x="0" dy="14">       `Y$$b.</tspan>
-    <tspan x="0" dy="14">          `&quot;Y$b._</tspan>
-    <tspan x="0" dy="14">              `&quot;&quot;&quot;</tspan>
-    </text>
+<svg width="820" height="220" viewBox="0 0 820 220" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(50,49)">
+      <rect x="30" y="0" width="15" height="15" fill="#da7759"/>
+      <rect x="45" y="0" width="15" height="15" fill="#da7759"/>
+      <rect x="60" y="0" width="15" height="15" fill="#da7759"/>
+      <rect x="75" y="0" width="15" height="15" fill="#da7759"/>
+      <rect x="90" y="0" width="15" height="15" fill="#da7759"/>
+      <rect x="105" y="0" width="15" height="15" fill="#da7759"/>
+      <rect x="120" y="0" width="15" height="15" fill="#da7759"/>
+      <rect x="135" y="0" width="15" height="15" fill="#da7759"/>
+      <rect x="30" y="15" width="15" height="15" fill="#da7759"/>
+      <rect x="45" y="15" width="15" height="15" fill="#080403"/>
+      <rect x="60" y="15" width="15" height="15" fill="#da7759"/>
+      <rect x="75" y="15" width="15" height="15" fill="#da7759"/>
+      <rect x="90" y="15" width="15" height="15" fill="#da7759"/>
+      <rect x="105" y="15" width="15" height="15" fill="#da7759"/>
+      <rect x="120" y="15" width="15" height="15" fill="#080403"/>
+      <rect x="135" y="15" width="15" height="15" fill="#da7759"/>
+      <rect x="0" y="30" width="15" height="15" fill="#da7759"/>
+      <rect x="15" y="30" width="15" height="15" fill="#da7759"/>
+      <rect x="30" y="30" width="15" height="15" fill="#da7759"/>
+      <rect x="45" y="30" width="15" height="15" fill="#da7759"/>
+      <rect x="60" y="30" width="15" height="15" fill="#da7759"/>
+      <rect x="75" y="30" width="15" height="15" fill="#da7759"/>
+      <rect x="90" y="30" width="15" height="15" fill="#da7759"/>
+      <rect x="105" y="30" width="15" height="15" fill="#da7759"/>
+      <rect x="120" y="30" width="15" height="15" fill="#da7759"/>
+      <rect x="135" y="30" width="15" height="15" fill="#da7759"/>
+      <rect x="150" y="30" width="15" height="15" fill="#da7759"/>
+      <rect x="165" y="30" width="15" height="15" fill="#da7759"/>
+      <rect x="0" y="45" width="15" height="15" fill="#da7759"/>
+      <rect x="15" y="45" width="15" height="15" fill="#da7759"/>
+      <rect x="30" y="45" width="15" height="15" fill="#da7759"/>
+      <rect x="45" y="45" width="15" height="15" fill="#da7759"/>
+      <rect x="60" y="45" width="15" height="15" fill="#da7759"/>
+      <rect x="75" y="45" width="15" height="15" fill="#da7759"/>
+      <rect x="90" y="45" width="15" height="15" fill="#da7759"/>
+      <rect x="105" y="45" width="15" height="15" fill="#da7759"/>
+      <rect x="120" y="45" width="15" height="15" fill="#da7759"/>
+      <rect x="135" y="45" width="15" height="15" fill="#da7759"/>
+      <rect x="150" y="45" width="15" height="15" fill="#da7759"/>
+      <rect x="165" y="45" width="15" height="15" fill="#da7759"/>
+      <rect x="30" y="60" width="15" height="15" fill="#da7759"/>
+      <rect x="45" y="60" width="15" height="15" fill="#da7759"/>
+      <rect x="60" y="60" width="15" height="15" fill="#da7759"/>
+      <rect x="75" y="60" width="15" height="15" fill="#da7759"/>
+      <rect x="90" y="60" width="15" height="15" fill="#da7759"/>
+      <rect x="105" y="60" width="15" height="15" fill="#da7759"/>
+      <rect x="120" y="60" width="15" height="15" fill="#da7759"/>
+      <rect x="135" y="60" width="15" height="15" fill="#da7759"/>
+      <rect x="30" y="75" width="15" height="15" fill="#da7759"/>
+      <rect x="45" y="75" width="15" height="15" fill="#da7759"/>
+      <rect x="60" y="75" width="15" height="15" fill="#da7759"/>
+      <rect x="75" y="75" width="15" height="15" fill="#da7759"/>
+      <rect x="90" y="75" width="15" height="15" fill="#da7759"/>
+      <rect x="105" y="75" width="15" height="15" fill="#da7759"/>
+      <rect x="120" y="75" width="15" height="15" fill="#da7759"/>
+      <rect x="135" y="75" width="15" height="15" fill="#da7759"/>
+      <rect x="30" y="90" width="15" height="15" fill="#da7759"/>
+      <rect x="60" y="90" width="15" height="15" fill="#da7759"/>
+      <rect x="105" y="90" width="15" height="15" fill="#da7759"/>
+      <rect x="135" y="90" width="15" height="15" fill="#da7759"/>
+      <rect x="30" y="105" width="15" height="15" fill="#da7759"/>
+      <rect x="60" y="105" width="15" height="15" fill="#da7759"/>
+      <rect x="105" y="105" width="15" height="15" fill="#da7759"/>
+      <rect x="135" y="105" width="15" height="15" fill="#da7759"/>
   </g>
 
-  <rect x="300" y="8" width="460" height="202" rx="8" fill="none" stroke="#39FF14" stroke-opacity="0.55"/>
-  <text x="320" y="32" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14">semih@phylake1</text>
-  <line x1="300" y1="42" x2="760" y2="42" stroke="#39FF14" stroke-opacity="0.4"/>
-  <text x="320" y="68" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Role:</text>
-  <text x="450" y="68" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">Full-Stack Dev x Product Designer</text>
-  <text x="320" y="92" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Languages:</text>
-  <text x="450" y="92" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">TypeScript . JavaScript . Python</text>
-  <text x="320" y="116" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Frameworks:</text>
-  <text x="450" y="116" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">React . Node.js</text>
-  <text x="320" y="140" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Databases:</text>
-  <text x="450" y="140" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">PostgreSQL . MongoDB . Redis</text>
-  <text x="320" y="164" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Design:</text>
-  <text x="450" y="164" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">Figma . Photoshop . Illustrator</text>
-  <text x="320" y="188" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Status:</text>
-  <text x="450" y="188" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">shipping code &amp; pixels</text>
+  <text x="300" y="18" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">┌─────────────────────────────────────────────────────┐</text>
+  <text x="300" y="32" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="751" y="32" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="300" y="68" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="751" y="68" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="300" y="92" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="751" y="92" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="300" y="116" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="751" y="116" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="300" y="140" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="751" y="140" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="300" y="164" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="751" y="164" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="300" y="188" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="751" y="188" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">│</text>
+  <text x="300" y="42" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">├─────────────────────────────────────────────────────┤</text>
+  <text x="300" y="210" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.8">└─────────────────────────────────────────────────────┘</text>
+  <text x="322" y="32" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14">semih@phylake1</text>
+  <text x="322" y="68" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Role:</text>
+  <text x="452" y="68" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">Full-Stack Dev x Product Designer</text>
+  <text x="322" y="92" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Languages:</text>
+  <text x="452" y="92" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">TypeScript . JavaScript . Python</text>
+  <text x="322" y="116" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Frameworks:</text>
+  <text x="452" y="116" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">React . Node.js</text>
+  <text x="322" y="140" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Databases:</text>
+  <text x="452" y="140" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">PostgreSQL . MongoDB . Redis</text>
+  <text x="322" y="164" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Design:</text>
+  <text x="452" y="164" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">Figma . Photoshop . Illustrator</text>
+  <text x="322" y="188" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Status:</text>
+  <text x="452" y="188" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">shipping code &amp; pixels</text>
 </svg>
