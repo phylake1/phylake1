@@ -1,0 +1,13 @@
+<svg width="720" height="40" viewBox="0 0 720 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+  <path d="M8,0 H712 A8,8 0 0 1 720,8 V40 H0 V8 A8,8 0 0 1 8,0 Z" fill="url(#bg)" stroke="#39FF14" stroke-opacity="0.25"/>
+  <circle cx="20" cy="20" r="6" fill="#FF5F56"/>
+  <circle cx="40" cy="20" r="6" fill="#FFBD2E"/>
+  <circle cx="60" cy="20" r="6" fill="#27C93F"/>
+  <text x="360" y="25" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" text-anchor="middle" opacity="0.85">semih@phylake1: ~/profile</text>
+</svg>
