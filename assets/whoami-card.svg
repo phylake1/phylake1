@@ -1,0 +1,39 @@
+<svg width="820" height="266" viewBox="0 0 820 266" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(20,20)">
+    <text font-family="'Fira Code','Courier New',monospace" font-size="12" fill="#39FF14" opacity="0.9">
+    <tspan x="0" dy="0">       _,met$$$$$gg.</tspan>
+    <tspan x="0" dy="14">    ,g$$$$$$$$$$$$$$$P.</tspan>
+    <tspan x="0" dy="14">  ,g$$P&quot;&quot;        &quot;&quot;&quot;Y$$.&quot;.</tspan>
+    <tspan x="0" dy="14"> ,$$P'              `$$$.</tspan>
+    <tspan x="0" dy="14">',$$P       ,ggs.     `$$b:</tspan>
+    <tspan x="0" dy="14">`d$$'     ,$P&quot;'   .    $$$</tspan>
+    <tspan x="0" dy="14"> $$P      d$'     ,    $$P</tspan>
+    <tspan x="0" dy="14"> $$:      $$.   -    ,d$$'</tspan>
+    <tspan x="0" dy="14"> $$;      Y$b._   _,d$P'</tspan>
+    <tspan x="0" dy="14"> Y$$.    `.`&quot;Y$$$$P&quot;'</tspan>
+    <tspan x="0" dy="14"> `$$b      &quot;-.__</tspan>
+    <tspan x="0" dy="14">  `Y$$</tspan>
+    <tspan x="0" dy="14">   `Y$$.</tspan>
+    <tspan x="0" dy="14">     `$$b.</tspan>
+    <tspan x="0" dy="14">       `Y$$b.</tspan>
+    <tspan x="0" dy="14">          `&quot;Y$b._</tspan>
+    <tspan x="0" dy="14">              `&quot;&quot;&quot;</tspan>
+    </text>
+  </g>
+
+  <rect x="300" y="8" width="460" height="202" rx="8" fill="none" stroke="#39FF14" stroke-opacity="0.55"/>
+  <text x="320" y="32" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#39FF14">semih@phylake1</text>
+  <line x1="300" y1="42" x2="760" y2="42" stroke="#39FF14" stroke-opacity="0.4"/>
+  <text x="320" y="68" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Role:</text>
+  <text x="450" y="68" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">Full-Stack Dev x Product Designer</text>
+  <text x="320" y="92" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Languages:</text>
+  <text x="450" y="92" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">TypeScript . JavaScript . Python</text>
+  <text x="320" y="116" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Frameworks:</text>
+  <text x="450" y="116" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">React . Node.js</text>
+  <text x="320" y="140" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Databases:</text>
+  <text x="450" y="140" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">PostgreSQL . MongoDB . Redis</text>
+  <text x="320" y="164" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Design:</text>
+  <text x="450" y="164" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">Figma . Photoshop . Illustrator</text>
+  <text x="320" y="188" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14" opacity="0.75">Status:</text>
+  <text x="450" y="188" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#39FF14">shipping code &amp; pixels</text>
+</svg>
